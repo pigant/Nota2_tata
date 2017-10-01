@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="360"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   version="1.0"
+   sodipodi:docname="matriz_foda.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 180 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="320 : 180 : 1"
+       inkscape:persp3d-origin="160 : 120 : 1"
+       id="perspective45" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="21.2"
+     objecttolerance="50"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9861111"
+     inkscape:cx="197.79768"
+     inkscape:cy="204.56316"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1152"
+     inkscape:window-height="849"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     width="320px"
+     height="360px"
+     inkscape:object-bbox="true"
+     inkscape:object-points="true"
+     inkscape:object-nodes="false"
+     showgrid="false"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:source>http://commons.wikimedia.org/wiki/Image:SWOT_pt.svg</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Júlio Reis (original portuguese version) &amp; Xavier Hienne (this derivative work)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+        <dc:title>SWOT Analysis</dc:title>
+        <dc:identifier>http://commons.wikimedia.org/wiki/Image:SWOT_en.svg</dc:identifier>
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-137,-492.11554)">
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="297.02734"
+       y="532.53754"
+       id="text2221"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2223"
+         x="297.02734"
+         y="532.53754">ANÁLISIS FODA</tspan></text>
+    <rect
+       style="opacity:0.4;fill:#8ae234;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="rect1999"
+       width="120"
+       height="275.60309"
+       x="197"
+       y="556.8717"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="opacity:0.4;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="rect2001"
+       width="120"
+       height="275.60309"
+       x="317"
+       y="556.8717"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="opacity:0.4;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="rect1997"
+       width="280"
+       height="120"
+       x="157"
+       y="712.47479"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="opacity:0.4;fill:#fce94f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="rect1995"
+       width="280"
+       height="120"
+       x="157"
+       y="592.47479"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="256.96582"
+       y="573.83875"
+       id="text2225"
+       sodipodi:linespacing="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="256.96582"
+         y="573.83875"
+         id="tspan2229"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Bitstream Vera Sans">Positivos</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text2231"
+       y="583.9834"
+       x="257.10547"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Bitstream Vera Sans"
+         id="tspan2235"
+         y="583.9834"
+         x="257.10547"
+         sodipodi:role="line">para alcanzar el objetivo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:0.50785339;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial Black;-inkscape-font-specification:Arial Black"
+       x="233.84506"
+       y="678.20007"
+       id="text3267"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3269"
+         x="233.84506"
+         y="678.20007">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="-651.64661"
+       y="177.21693"
+       id="text2275"
+       sodipodi:linespacing="100%"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="-651.64661"
+         y="177.21693"
+         id="tspan2277"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Bitstream Vera Sans">Orígen Interno</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text2279"
+       y="185.42928"
+       x="-652.47308"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         id="tspan2283"
+         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Bitstream Vera Sans"
+         y="185.42928"
+         x="-652.47308"
+         sodipodi:role="line">(atributos de la empresa)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="-771.64661"
+       y="177.21693"
+       id="text3262"
+       sodipodi:linespacing="100%"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="-771.64661"
+         y="177.21693"
+         id="tspan3264"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Bitstream Vera Sans">Orígen Externo</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text3266"
+       y="185.42928"
+       x="-772.47308"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         id="tspan3268"
+         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Bitstream Vera Sans"
+         y="185.42928"
+         x="-772.47308"
+         sodipodi:role="line">(atributos del ambiente)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="378.82498"
+       y="573.83875"
+       id="text2249"
+       sodipodi:linespacing="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="378.82498"
+         y="573.83875"
+         id="tspan2251"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Bitstream Vera Sans">Negativos</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text2231"
+       id="use3904"
+       transform="translate(120,0)"
+       width="320"
+       height="360"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:0.50785339;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial Black;-inkscape-font-specification:Arial Black"
+       x="349.26453"
+       y="677.60339"
+       id="text3271"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3273"
+         x="349.26453"
+         y="677.60339">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:0.50785339;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial Black;-inkscape-font-specification:Arial Black"
+       x="226.05325"
+       y="798.7865"
+       id="text3279"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3281"
+         x="226.05325"
+         y="798.7865">O</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:100%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="256.37674"
+       y="604.11176"
+       id="text2257"
+       sodipodi:linespacing="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2259"
+         x="256.37674"
+         y="604.11176"
+         style="font-size:12.5px;-inkscape-font-specification:'Myriad Pro';font-family:'Myriad Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#333333">Se cuenta con una</tspan><tspan
+         sodipodi:role="line"
+         x="257.96854"
+         y="614.11176"
+         style="font-size:12.5px;-inkscape-font-specification:'Myriad Pro';font-family:'Myriad Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#333333"
+         id="tspan4175">gran infrestructura </tspan><tspan
+         sodipodi:role="line"
+         x="257.96854"
+         y="624.11176"
+         id="tspan4171"
+         style="font-size:12.5px;-inkscape-font-specification:'Myriad Pro';font-family:'Myriad Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#333333">nivel país con diversas </tspan><tspan
+         sodipodi:role="line"
+         x="257.96854"
+         y="634.11176"
+         id="tspan4177"
+         style="font-size:12.5px;-inkscape-font-specification:'Myriad Pro';font-family:'Myriad Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#333333">sucursales a lo </tspan><tspan
+         sodipodi:role="line"
+         x="256.37674"
+         y="647.30133"
+         id="tspan4189"
+         style="-inkscape-font-specification:'Myriad Pro';font-family:'Myriad Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#333333;font-size:12.5px">largo de Chile.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:100%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="256.95215"
+       y="737.29486"
+       id="text2265"
+       sodipodi:linespacing="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2267"
+         x="258.94189"
+         y="737.29486"
+         style="font-size:10px;fill:#333333;">El aumento de </tspan><tspan
+         sodipodi:role="line"
+         x="258.94189"
+         y="749.79486"
+         style="font-size:10px;fill:#333333;"
+         id="tspan4274">las compras online </tspan><tspan
+         sodipodi:role="line"
+         x="258.94189"
+         y="762.29486"
+         style="font-size:10px;fill:#333333;"
+         id="tspan4276">tanto a nivel </tspan><tspan
+         sodipodi:role="line"
+         x="258.94189"
+         y="774.79486"
+         style="font-size:10px;fill:#333333;"
+         id="tspan4284">nacional como </tspan><tspan
+         sodipodi:role="line"
+         x="258.94189"
+         y="787.29486"
+         style="font-size:10px;fill:#333333;"
+         id="tspan4272">internacional, y </tspan><tspan
+         sodipodi:role="line"
+         x="258.94189"
+         y="799.79486"
+         style="font-size:10px;fill:#333333;"
+         id="tspan4280">la necesidad de </tspan><tspan
+         sodipodi:role="line"
+         x="258.94189"
+         y="812.29486"
+         style="font-size:10px;fill:#333333;"
+         id="tspan4278">transportar las </tspan><tspan
+         sodipodi:role="line"
+         x="256.95215"
+         y="824.79486"
+         style="font-size:10px;fill:#333333;"
+         id="tspan4282">especias compradas.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:0.50785339;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial Black;-inkscape-font-specification:Arial Black"
+       x="348.25046"
+       y="797.7724"
+       id="text3275"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3277"
+         x="348.25046"
+         y="797.7724">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:100%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="377.36572"
+       y="757.91937"
+       id="text2269"
+       sodipodi:linespacing="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2271"
+         x="378.69629"
+         y="757.91937"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';fill:#333333">La inclusión en el </tspan><tspan
+         sodipodi:role="line"
+         x="378.69629"
+         y="770.41937"
+         id="tspan4290"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';fill:#333333">país de grandes </tspan><tspan
+         sodipodi:role="line"
+         x="378.69629"
+         y="782.91937"
+         id="tspan4292"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';fill:#333333">empresas de </tspan><tspan
+         sodipodi:role="line"
+         x="377.36572"
+         y="795.41937"
+         id="tspan4294"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';fill:#333333">correo.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:100%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="255.70082"
+       y="675.50153"
+       id="text2257-7"
+       sodipodi:linespacing="100%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="256.76526"
+         y="675.50153"
+         id="tspan4189-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';fill:#333333;">Se cuenta con gran prestigio </tspan><tspan
+         sodipodi:role="line"
+         x="256.76526"
+         y="685.50153"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';fill:#333333;"
+         id="tspan4252">producto de la cantidad </tspan><tspan
+         sodipodi:role="line"
+         x="255.70082"
+         y="695.50153"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';fill:#333333;"
+         id="tspan4254">de años en funcionamiento</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="378.60919"
+       y="606.20001"
+       id="text4256"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4258"
+         x="378.60919"
+         y="606.20001"
+         style="font-size:12.5px;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:'Myriad Pro';font-family:'Myriad Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Gran deuda con</tspan><tspan
+         sodipodi:role="line"
+         x="378.60919"
+         y="618.70001"
+         style="font-size:12.5px;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:'Myriad Pro';font-family:'Myriad Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan4260">instituciones</tspan><tspan
+         sodipodi:role="line"
+         x="378.60919"
+         y="631.20001"
+         style="font-size:12.5px;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:'Myriad Pro';font-family:'Myriad Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan4262">bancarias.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="379.45776"
+       y="666.53809"
+       id="text4264"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4266"
+         x="379.45776"
+         y="666.53809"
+         style="font-size:10px;text-align:center;text-anchor:middle;fill:#333333">Costos de recursos</tspan><tspan
+         sodipodi:role="line"
+         x="381.04956"
+         y="679.03809"
+         style="font-size:10px;text-align:center;text-anchor:middle;fill:#333333"
+         id="tspan4268">humanos </tspan><tspan
+         sodipodi:role="line"
+         x="379.45776"
+         y="691.53809"
+         style="font-size:10px;text-align:center;text-anchor:middle;fill:#333333"
+         id="tspan4270">excesivamente altos.</tspan></text>
+  </g>
+</svg>
