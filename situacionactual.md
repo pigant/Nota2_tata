@@ -6,6 +6,7 @@
 Para el 21 de Abril del año 2017, el diario nacional La Tercera, público un árticulo en el cual contenía la siguiente infografía, esta muestra como esta distribuida a la fecha la matriz energética Chilena.
 ![infografia](imagenes/matriz_energetica.png)
 [Imagen obtenida de La Tercera](http://www.latercera.com/noticia/17-la-energia-producida-chile-proviene-fuentes-renovables-no-convencionales/)
+
 En esta imagen podemos percatarnos, que si bien es cierto existen energías renovables en uso, aun falta bastante para lograr dejar la dependencia de los hidrocarburos.
 ### Necesidad a cubrir
 Dado que **Chile esta buscando dejar su dependencia de los hidrocarburos**, y en Énizer se cree firmemente que esto debe ser así. **Énizer busca contribuir a este objetivo país** y lograr que el país sea visto como un referente a seguir en materias energéticas.
