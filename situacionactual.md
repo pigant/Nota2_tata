@@ -18,7 +18,7 @@ Buscamos ser un lider y un referente en el mercado para el diseño, investigaci�
 Sea investigación como implementación, se operará con los máximos estándares, para lograr obtener los mejores resultados.
 #### Concientes con el medio ambiente
 Conciencia con el medio ambiente y con la situación desfavorable que el uso de los hidrocarburos nos provocan.
-###Acerca de la estrategia
+### Acerca de la estrategia
 #### Propuesta de valor
 * Desarrollo y asesoramiento de excelencia en tecnologías renovables.
 * Generación de optimizaciones en el uso de energías renovables por medio de la investigación.
