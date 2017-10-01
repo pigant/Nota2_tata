@@ -25,3 +25,35 @@ CorreosChile es una empresa pública de servicio, de todos los chilenos, que env
 * Control
 > Debido al gran incremento que hubo en las ofertas directas y en los litigios de apoderamiento en la década de los ochenta, los administradores de las empresas que sean poseídas en forma pública y que no tengan por lo menos un 50% de las acciones deberán preocuparse por mantener el control. Además, existe una gran presión sobre tales administradores para que produzcan incrementos anuales en las utilidades, aun cuando sería en el mejor de los intereses a largo plazo de los , accionistas el adoptar una estrategia que pudiera castigar a las utilidades a corto plazo pero que pudiera conducir a utilidades más altas en los años futuros. Estos factores han ocasionado que algunas compañías públicas se conviertan en "empresas privadas" mediante adquisiciones apalancadas (LBO) en las cuales los administradores y algunos inversionistas análogos solicitan dinero en préstamo para obtener los títulos de propiedad de los accionistas públicos. La negociación realizada por la RJR Nabisco, la adquisición , apalancada más grande que se ha registrado, cuyo monto fue de aproximadamente $25 mil millones, es un ejemplo bastante ilustrativo. 
 
+
+# Nuevo Plan Estratégico 2017-2020
+
+> Busca recaudar 50 mil millones de pesos
+
+* Foco en negocio de paquetería nacional
+* Aumento exponencial desde Asia
+* Restructuración procesos logísticos y de distribución
+* 4.4% aumentó sus ventas Correos de Chile en el primer semestre 2017, hasta los $50.308 millones
+* pérdidas de $215 millones
+* aumento de costos sobre ingresos en un 12% entre enero y julio 2017
+* Adaptarse a la industria que vive importantes cambios
+* Proyecto enviado a la SVS por la emisión de su primer bono
+* hace 15 años casi el 90% de los ingresos provenía del servicio postal y un 10% de la paquetería
+* en la actualidad las brechas se han acercado, 50% de los ingresos es de la paquetería
+* Aumento del negocio Express -paquetería nacional
+* Profundizar el negocio de la paquetería internacional de llegada
+* Aumento exponencial de los envíos provenientes desde el extranjero, especialmente desde Asia
+* Se crearon sistemas de aviso vía SMS y teléfono
+** Aumentar la eficiencia del área postal
+> La empresa cuenta con un plan comercial -que subyace del plan estratégico -cuatro segmento de negocios
+> * mercado institucional postal 
+> * paquetería e-commerce nacional
+> * paquetería internacional
+> * canal retail personas & pymes
+
+* Creación de una nueva planta de paquetería internacional
+* mejoramiento y apertura de nuevas sucursales y agencias
+* implementación de tecnologías en su interior que generará una operación más eficiente
+* adaptarse a las necesidades de los tiempos con soluciones que ayuden a resolver los problemas de los clientes
+
+
