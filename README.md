@@ -4,4 +4,4 @@
 * [Plan estrategico](planestrategico.md)
 * [FODA](foda.md)
 # Creación de un plan estratégico
-[Situación actual](situacionactual.md)
+[Plan estratégico](enizer.md)
