@@ -41,19 +41,25 @@ Conciencia con el medio ambiente y con la situación desfavorable que el uso de 
 * Pago en investigación y desarrollo.
 * Pago de patentes.
 
-#### Areas de interés estratégico
+### Areas de interés estratégico
 Las areas en la que Énizer se concentrará son las siguientes:
 * Investigación: Con el objetivo de crear tecnología patentada
 * Relaciones públicas: Con el fin de conseguir buenas relaciones con universidades y ministerios de energía.
 * Consultorias: Con el fin de entregar soluciones de calidad y adecuadas al contexto.
 
-#### Objetivos estratégicos
-##### Objetivos en investigación
+### Objetivos estratégicos
+#### Objetivos en investigación
 * Innovar en energías renovables.
 * Creación de patentes que tengan relación con energías renovables.
-##### Objetivos en relaciones públicas
+#### Objetivos en relaciones públicas
 * Crear y mantener relaciones con universidades.
 * Crear y mantener relaciones con gobiernos.
-##### Objetivos en consultorias
+#### Objetivos en consultorias
 * Entregar las mejores consultorías.
 * Capacitación continua del personal.
+
+### Plan estratégico
+#### Inversión en capacitaciones
+Cada persona contratada, independiente de su nivel de conocimiento y expertis, será capacitada en los diferentes conocimientos de cada una de las energías renovables, con el objetivo de dar las mejores consultorias y lograr los avances más significativos en en investigación.
+#### Creación de imagen corporativa
+Crear y mantener las relaciones con gobiernos y universidades en base de una imagen de una corporación de excelencia y confiable, para de esa manera conseguir financiamiento para investigación e ingreso monetario por medio de consultorias especializadas.
