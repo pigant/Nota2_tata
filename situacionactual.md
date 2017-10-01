@@ -58,6 +58,18 @@ Las areas en la que Énizer se concentrará son las siguientes:
 * Entregar las mejores consultorías.
 * Capacitación continua del personal.
 
+### Análisis FODA
+#### Análisis interno
+##### Fortalezas
+* **F1**: Fuerte convicción acerca de que el cambio hacia energías renovables hay que realizarlo con excelencia.
+##### Debilidades
+* **D1**: Pocos contactos con universidades y gobiernos.
+#### Análisis externo
+##### Oportunidades
+* **O1**: Tendencia de dejar las energías obtenidas por hidrocarburos, por energías renobables.
+##### Amenazas
+* **A1**: Gobierno cambie su política a solo uso de hidrocarburos por motivos políticos.
+
 ### Plan estratégico
 #### Inversión en capacitaciones
 Cada persona contratada, independiente de su nivel de conocimiento y expertis, será capacitada en los diferentes conocimientos de cada una de las energías renovables, con el objetivo de dar las mejores consultorias y lograr los avances más significativos en en investigación.
